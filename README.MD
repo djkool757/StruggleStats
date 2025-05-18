@@ -1,16 +1,16 @@
-# MCAT Content Outline Tracker
+# StruggleStats
 
-An interactive web app to help students review the AAMC MCAT content outline. Built with a Flask backend and Vue.js frontend.
+Concept Confusion Tracker is a web app that helps MCAT students log and visualize the concepts they struggle with most, revealing patterns in their learning over time. Built with a Flask backend and Vue.js frontend.
 
 ---
 
 ## ✨ Features
 
-- ✅ Track progress with "I know this / I don't know this" toggles
-- 🎨 Color-coded mastery status per topic
-- 📹 Linked resources (videos, articles) for each concept
-- 🔍 Searchable and filterable content outline
-- 🧪 REST API for flexibility and extensibility
+Tag wrong questions by Subtopic
+
+User can add notes, like "aha" moments, after reviewing to any given topic 
+
+Smart reminders(notification) within the site to review those concepts
 
 ---
 
@@ -26,7 +26,7 @@ An interactive web app to help students review the AAMC MCAT content outline. Bu
 ---
 
 ## 📁 Project Structure
-neurotrack/
+StruggleStats/
 ├── backend/ # Flask API
 │ ├── app/ # Application package
 │ │ ├── models.py
@@ -42,4 +42,8 @@ neurotrack/
 │ │ └── main.js
 │ ├── vite.config.js
 │ └── package.json
+├──docker-compose.yml
+├──Dockerfile.backend
+├──Dockerfile.frontend
 └── README.md
+
