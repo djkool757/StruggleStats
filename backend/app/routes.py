@@ -1,6 +1,7 @@
 from flask import Blueprint, jsonify, request
 from app.models import User
-from app.models import Section
+from app.models import Subtopic
+from app.models import Concept
 from app.models import Category
 
 ## finish up the routes.py file to handle user management

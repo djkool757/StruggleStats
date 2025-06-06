@@ -1,9 +1,7 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy import  Column, Integer, String, ForeignKey
 from flask_cors import CORS
-
-db = SQLAlchemy()
+from models import db
 
 def create_app():
     app = Flask(__name__)
@@ -13,5 +11,6 @@ def create_app():
 
     from .routes import api
     app.register_blueprint(api, url_prefix='/api')
-
+    with app.app_context():
+        db.create_all()
     return app

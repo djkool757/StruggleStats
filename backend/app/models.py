@@ -1,15 +1,14 @@
 from datetime import datetime
-import app 
-from sqlalchemy import  Column, Integer, String, ForeignKey
+from flask_sqlalchemy import SQLAlchemy
+db = SQLAlchemy()
 
 
-print(app.db)
-class User(app.db.Model):
-    id = app.db.Column(app.db.Integer, primary_key=True)
-    username = app.db.Column(app.db.String(80), unique=True, nullable=False)
-    email = app.db.Column(app.db.String(120), unique=True, nullable=False)
-    password = app.db.Column(app.db.String(128), nullable=False)
-    logs = app.db.relationship('Log', backref='user', lazy=True)
+class User(db.Model):
+    __tablename__ = 'categories'
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String, nullable=False)
+    subtopics = db.relationship('Subtopic', backref='category', cascade='all, delete-orphan')
+    logs = db.relationship('Log', backref='category', cascade='all, delete-orphan')
 
     def to_dict(self):
         return {
@@ -18,15 +17,53 @@ class User(app.db.Model):
             'email': self.email
         }
     def save(self):
-        app.db.session.add(self)
-        app.db.session.commit()
+        db.session.add(self)
+        db.session.commit()
 
-class Section(app.db.Model):
-    id = app.db.Column(app.db.Integer, primary_key=True)
-    name = app.db.Column(app.db.String(100), nullable=False)
-    categories = app.db.relationship('Category', backref='section', cascade='all, delete-orphan')
+class Category(db.Model):
+    __tablename__ = 'categories'
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String, nullable=False)
+    subtopics = db.relationship('Subtopic', backref='category', cascade='all, delete-orphan')
 
-class Category(app.db.Model):
-    id = app.db.Column(app.db.Integer, primary_key=True)
-    name = app.db.Column(app.db.String(100), nullable=False)
-    section_id = app.db.Column(app.db.Integer, app.db.ForeignKey('section.id'))
+class Subtopic(db.Model):
+    __tablename__ = 'subtopics'
+    id = db.Column(db.Integer, primary_key=True)
+    title = db.Column(db.String, nullable=False)
+    category_id = db.Column(db.Integer, db.ForeignKey('categories.id'), nullable=False)
+    concepts = db.relationship('Concept', backref='subtopic', cascade='all, delete-orphan')
+
+class Concept(db.Model):
+    __tablename__ = 'concepts'
+    id = db.Column(db.Integer, primary_key=True)
+    description = db.Column(db.String, nullable=False)
+    subtopic_id = db.Column(db.Integer, db.ForeignKey('subtopics.id'), nullable=False)
+
+class Log(db.Model):
+    __tablename__ = 'logs'
+    id = db.Column(db.Integer, primary_key=True)
+    timestamp = db.Column(db.DateTime, default=datetime.now(), nullable=False)
+    category_id = db.Column(db.Integer, db.ForeignKey('categories.id'), nullable=False)
+    action = db.Column(db.String, nullable=False)  # e.g., 'create', 'update', 'delete'
+
+    def to_dict(self):
+        return {
+            'id': self.id,
+            'timestamp': self.timestamp.isoformat(),
+            'category_id': self.category_id,
+            'action': self.action
+        }
+    def save(self):
+        db.session.add(self)
+        db.session.commit()
+    def delete(self):
+        db.session.delete(self)
+        db.session.commit()
+    def __repr__(self):
+        return f'<Log {self.id} - {self.action} at {self.timestamp}>'
+    def __str__(self):
+        return f'Log(id={self.id}, timestamp={self.timestamp}, category_id={self.category_id}, action={self.action})'
+    def __init__(self, category_id, action):
+        self.category_id = category_id
+        self.action = action
+        self.timestamp = datetime.now()

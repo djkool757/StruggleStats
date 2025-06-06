@@ -1,0 +1,3744 @@
+[
+  {
+    "category": "Content Category 1A: Structure/function of proteins and their constituent",
+    "subtopics": [
+      {
+        "title": "amino acids",
+        "concepts": []
+      },
+      {
+        "title": "Amino Acids/Peptides",
+        "concepts": [
+          "Absolute configuration at the α position",
+          "Amino acids as dipolar ions",
+          "Acidic or basic",
+          "Hydrophobic or hydrophilic",
+          "Sulfur linkage for cysteine and cysteine",
+          "Peptide linkage: polypeptides and proteins",
+          "Hydrolysis"
+        ]
+      },
+      {
+        "title": "Proteins",
+        "concepts": [
+          "1°, 2°, 3°, 4° structure of proteins",
+          "Denaturing and folding",
+          "Hydrophobic interactions",
+          "Solvation layer (entropy)",
+          "Role of proline, cysteine and hydrophobic"
+        ]
+      },
+      {
+        "title": "bonding",
+        "concepts": []
+      },
+      {
+        "title": "Protein separation techniques",
+        "concepts": [
+          "Isoelectric point",
+          "Electrophoresis"
+        ]
+      },
+      {
+        "title": "Non-Enzymatic Protein Function",
+        "concepts": [
+          "Binding",
+          "Immune system",
+          "Motors"
+        ]
+      },
+      {
+        "title": "Enzyme Structure/Function",
+        "concepts": [
+          "Enzyme function in catalyzing biological"
+        ]
+      },
+      {
+        "title": "reactions",
+        "concepts": [
+          "Classification of enzymes by reaction type",
+          "Effects of local conditions on enzyme"
+        ]
+      },
+      {
+        "title": "activity",
+        "concepts": [
+          "Reduction of activation energy",
+          "Substrates and enzyme specificity",
+          "Active Site Model",
+          "Induced-fit Model",
+          "Mechanism of catalysis",
+          "Cofactors and Coenzymes",
+          "Water-soluble vitamins"
+        ]
+      },
+      {
+        "title": "Control of Enzyme Kinetics",
+        "concepts": [
+          "General (catalysis)",
+          "Michaelis-Menten",
+          "Cooperativity",
+          "Feedback regulation"
+        ]
+      },
+      {
+        "title": "Inhibition",
+        "concepts": [
+          "Competitive and Non-competitive",
+          "Mixed",
+          "Uncompetitive"
+        ]
+      },
+      {
+        "title": "Enzyme regulation",
+        "concepts": [
+          "Allosteric enzymes",
+          "Covalently-modified enzymes",
+          "Zymogens"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      }
+    ]
+  },
+  {
+    "category": "Content Category 1B: Transmission of genetic information from the gene to",
+    "subtopics": [
+      {
+        "title": "the protein",
+        "concepts": []
+      },
+      {
+        "title": "Nucleic Acid Structure and Function",
+        "concepts": [
+          "Nucleotides and nucleosides",
+          "Sugar phosphate backbone",
+          "Pyrimidine, purine residues",
+          "Deoxyribonucleic acid (DNA): double"
+        ]
+      },
+      {
+        "title": "helix,",
+        "concepts": []
+      },
+      {
+        "title": "Watson–Crick model of DNA structure",
+        "concepts": [
+          "Base pairing specificity: A with T, G with"
+        ]
+      },
+      {
+        "title": "C",
+        "concepts": [
+          "Function in transmission of genetic"
+        ]
+      },
+      {
+        "title": "information",
+        "concepts": [
+          "DNA denaturation, reannealing,"
+        ]
+      },
+      {
+        "title": "hybridization",
+        "concepts": []
+      },
+      {
+        "title": "DNA Replication and Repair",
+        "concepts": [
+          "Mechanism of replication: separation of"
+        ]
+      },
+      {
+        "title": "strands, specific coupling of free nucleic",
+        "concepts": []
+      },
+      {
+        "title": "acids",
+        "concepts": [
+          "Semi-conservative nature of replication",
+          "Specific enzymes involved in replication",
+          "Origins of replication, multiple origins in"
+        ]
+      },
+      {
+        "title": "eukaryotes",
+        "concepts": [
+          "Replicating the ends of DNA molecules"
+        ]
+      },
+      {
+        "title": "The Genetic Code",
+        "concepts": [
+          "Central Dogma: DNA → RNA",
+          "The triplet code",
+          "Codon-anticodon relationship",
+          "Degenerate code, wobble pairing",
+          "Missense, nonsense codons",
+          "Initiation, termination codons",
+          "Messenger RNA (mRNA)"
+        ]
+      },
+      {
+        "title": "Transcription",
+        "concepts": [
+          "tRNA and rRNA",
+          "Mechanism of transcription",
+          "mRNA processing in eukaryotes, introns,"
+        ]
+      },
+      {
+        "title": "exons",
+        "concepts": [
+          "Ribozymes, spliceosomes, small nuclear"
+        ]
+      },
+      {
+        "title": "ribonucleoproteins, small nuclear RNA",
+        "concepts": [
+          "Evolutionary importance of introns"
+        ]
+      },
+      {
+        "title": "Translation",
+        "concepts": [
+          "Roles of mRNA, tRNA, rRNA",
+          "Role and structure of ribosomes",
+          "Initiation, termination co-factors",
+          "Post-translational modification of"
+        ]
+      },
+      {
+        "title": "proteins",
+        "concepts": []
+      },
+      {
+        "title": "Eukaryotic Chromosome Organization",
+        "concepts": [
+          "Chromosomal proteins",
+          "Single copy vs. repetitive DNA",
+          "Supercoiling",
+          "Heterochromatin vs. euchromatin",
+          "Telomeres, centromeres",
+          "Repair during replication",
+          "Repair during replication",
+          "Repair of mutations",
+          "Telomeres, centromeres"
+        ]
+      },
+      {
+        "title": "Gene Expression in Prokaryotes",
+        "concepts": [
+          "Jacob-Monod Model",
+          "Gene repression in bacteria",
+          "Positive control in bacteria"
+        ]
+      },
+      {
+        "title": "Control of Gene Expression in Eukaryotes",
+        "concepts": [
+          "Transcriptional regulation",
+          "DNA binding proteins, transcription"
+        ]
+      },
+      {
+        "title": "factors",
+        "concepts": [
+          "Gene amplification and duplication",
+          "Post-transcriptional control, basic concept"
+        ]
+      },
+      {
+        "title": "of",
+        "concepts": []
+      },
+      {
+        "title": "splicing (introns, exons)",
+        "concepts": [
+          "Cancer as a failure of normal cellular"
+        ]
+      },
+      {
+        "title": "controls,",
+        "concepts": []
+      },
+      {
+        "title": "oncogenes, tumor suppressor genes",
+        "concepts": [
+          "Regulation of chromatin structure",
+          "DNA methylation",
+          "Non-coding RNAs"
+        ]
+      },
+      {
+        "title": "Recombinant DNA and Biotechnology",
+        "concepts": [
+          "Gene cloning and cloned gene expression",
+          "Restriction enzymes"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": [
+          "DNA libraries",
+          "Generation of cDNA",
+          "Hybridization and Polymerase Chain"
+        ]
+      },
+      {
+        "title": "Reaction",
+        "concepts": [
+          "Gel Electrophoresis and Southern"
+        ]
+      },
+      {
+        "title": "Blotting",
+        "concepts": [
+          "DNA sequencing",
+          "Analyzing gene expression",
+          "Determining gene function",
+          "Stem cells",
+          "Applications of DNA technology: gene"
+        ]
+      },
+      {
+        "title": "therapy, pharmaceuticals,  forensic evidence,",
+        "concepts": []
+      },
+      {
+        "title": "environmental cleanup, agriculture",
+        "concepts": []
+      }
+    ]
+  },
+  {
+    "category": "Content Category 1C: Transmission of heritable information from generation",
+    "subtopics": [
+      {
+        "title": "to generation and the processes that increase genetic diversity",
+        "concepts": []
+      },
+      {
+        "title": "Mendelian Genetics",
+        "concepts": [
+          "Phenotype and genotype",
+          "Gene and locus",
+          "Allele: single and multiple",
+          "Homozygosity and heterozygosity",
+          "Wild-type",
+          "Recessiveness",
+          "Complete dominance",
+          "Co-dominance",
+          "Incomplete dominance, leakage,"
+        ]
+      },
+      {
+        "title": "penetrance,",
+        "concepts": []
+      },
+      {
+        "title": "expressivity",
+        "concepts": [
+          "Hybridization: viability",
+          "Gene pool"
+        ]
+      },
+      {
+        "title": "Meiosis and Other Factors Affecting",
+        "concepts": []
+      },
+      {
+        "title": "Genetic Variability",
+        "concepts": [
+          "Significance of meiosis",
+          "Important differences between meiosis"
+        ]
+      },
+      {
+        "title": "and",
+        "concepts": []
+      },
+      {
+        "title": "mitosis",
+        "concepts": [
+          "Segregation of genes",
+          "Independent assortment",
+          "Linkage",
+          "Recombination",
+          "Single and double crossovers",
+          "Synaptonemal complex",
+          "Tetrad"
+        ]
+      },
+      {
+        "title": "Sex-linked characteristics",
+        "concepts": [
+          "Few genes on Y chromosome",
+          "Sex determination",
+          "Cytoplasmic/extranuclear inheritance"
+        ]
+      },
+      {
+        "title": "Mutation",
+        "concepts": [
+          "Error in DNA sequence",
+          "Types of mutations: random, translation"
+        ]
+      },
+      {
+        "title": "error,  transcription error, base substitution,",
+        "concepts": []
+      },
+      {
+        "title": "inversion, addition, deletion, translocation,",
+        "concepts": []
+      },
+      {
+        "title": "mis-pairing",
+        "concepts": [
+          "Advantageous vs. deleterious mutation",
+          "Inborn errors of metabolism",
+          "Relationship of mutagens to carcinogens",
+          "Genetic drift",
+          "Synapsis or crossing-over mechanism and"
+        ]
+      },
+      {
+        "title": "genetic diversity",
+        "concepts": []
+      },
+      {
+        "title": "Analytic Methods",
+        "concepts": [
+          "Hardy–Weinberg Principle",
+          "Testcross (Backcross; parent, F1 and F2"
+        ]
+      },
+      {
+        "title": "generations)",
+        "concepts": [
+          "Gene mapping: crossover frequencies",
+          "Biometry: statistical methods"
+        ]
+      },
+      {
+        "title": "Evolution",
+        "concepts": [
+          "Natural selection",
+          "Fitness concept",
+          "Selection by differential reproduction",
+          "Concepts of natural and group selection",
+          "Evolutionary success as increase in"
+        ]
+      },
+      {
+        "title": "percent representation in the gene pool of the",
+        "concepts": []
+      },
+      {
+        "title": "next generation",
+        "concepts": []
+      },
+      {
+        "title": "Speciation",
+        "concepts": [
+          "Polymorphism",
+          "Adaptation and specialization",
+          "Inbreeding"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": [
+          "Outbreeding",
+          "Bottlenecks",
+          "Evolutionary time as measured by gradual"
+        ]
+      },
+      {
+        "title": "random changes in genome",
+        "concepts": []
+      }
+    ]
+  },
+  {
+    "category": "Content Category 1D: Principles of bioenergetics and fuel molecule",
+    "subtopics": [
+      {
+        "title": "metabolism",
+        "concepts": []
+      },
+      {
+        "title": "Principles of Bioenergetics",
+        "concepts": [
+          "Bioenergetics/thermodynamics",
+          "Free energy/Keq and Equilibrium constant",
+          "Relationship of the equilibrium constant"
+        ]
+      },
+      {
+        "title": "and",
+        "concepts": []
+      },
+      {
+        "title": "ΔG°",
+        "concepts": [
+          "Le Châtelier’s Principle",
+          "Endothermic/exothermic reactions",
+          "Free energy: G, Spontaneous reactions"
+        ]
+      },
+      {
+        "title": "and",
+        "concepts": []
+      },
+      {
+        "title": "ΔG°",
+        "concepts": [
+          "Phosphoryl group transfers and ATP",
+          "ATP hydrolysis ΔG << 0",
+          "ATP group transfers",
+          "Half-reactions in biological redox"
+        ]
+      },
+      {
+        "title": "reactions",
+        "concepts": [
+          "Soluble electron carriers",
+          "Flavoproteins"
+        ]
+      },
+      {
+        "title": "Carbohydrates",
+        "concepts": [
+          "Nomenclature and classification",
+          "Absolute configuration",
+          "Cyclic structure and conformation",
+          "Epimers and anomers",
+          "Hydrolysis of the glycoside linkage",
+          "Mono, di and polysaccharides"
+        ]
+      },
+      {
+        "title": "Glycolysis, Gluconeogenesis, and the",
+        "concepts": []
+      },
+      {
+        "title": "Pentose Phosphate Pathway",
+        "concepts": [
+          "Glycolysis (aerobic), substrates and"
+        ]
+      },
+      {
+        "title": "products",
+        "concepts": [
+          "Feeder pathways: glycogen, starch"
+        ]
+      },
+      {
+        "title": "metabolism",
+        "concepts": [
+          "Fermentation (anaerobic glycolysis)",
+          "Gluconeogenesis, Pentose phosphate"
+        ]
+      },
+      {
+        "title": "pathway",
+        "concepts": [
+          "Net molecular and energetic results of"
+        ]
+      },
+      {
+        "title": "respiration processes",
+        "concepts": []
+      },
+      {
+        "title": "Principles of Metabolic Regulation",
+        "concepts": [
+          "Regulation of metabolic pathways",
+          "Maintenance of a dynamic steady state",
+          "Regulation of glycolysis and"
+        ]
+      },
+      {
+        "title": "gluconeogenesis",
+        "concepts": [
+          "Metabolism of glycogen",
+          "Regulation of glycogen synthesis and"
+        ]
+      },
+      {
+        "title": "breakdown of Allosteric and hormonal",
+        "concepts": []
+      },
+      {
+        "title": "control",
+        "concepts": [
+          "Analysis of metabolic control"
+        ]
+      },
+      {
+        "title": "Citric Acid Cycle",
+        "concepts": [
+          "Acetyl-CoA production",
+          "Reactions of the cycle, substrates and"
+        ]
+      },
+      {
+        "title": "products",
+        "concepts": [
+          "Regulation of the cycle",
+          "Net molecular and energetic results of"
+        ]
+      },
+      {
+        "title": "respiration processes",
+        "concepts": []
+      },
+      {
+        "title": "Metabolism of Fatty Acids and Proteins",
+        "concepts": [
+          "Description of fatty acids",
+          "Digestion, mobilization, and transport of"
+        ]
+      },
+      {
+        "title": "fats",
+        "concepts": [
+          "Oxidation of fatty acids - Saturated and"
+        ]
+      },
+      {
+        "title": "unsaturated fats",
+        "concepts": [
+          "Ketone bodies",
+          "Anabolism of fats",
+          "Biosynthesis of lipids and polysaccharides",
+          "Metabolism of proteins"
+        ]
+      },
+      {
+        "title": "Oxidative Phosphorylation",
+        "concepts": [
+          "Electron transport chain and oxidative"
+        ]
+      },
+      {
+        "title": "phosphorylation, substrates and products,",
+        "concepts": []
+      },
+      {
+        "title": "general features of the pathway",
+        "concepts": [
+          "Electron transfer in mitochondria",
+          "NADH, NADPH"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": [
+          "Flavoproteins",
+          "Cytochromes",
+          "ATP synthase, chemiosmotic coupling",
+          "Proton motive force",
+          "Net molecular and energetic results of"
+        ]
+      },
+      {
+        "title": "respiration processes",
+        "concepts": [
+          "Regulation of oxidative phosphorylation",
+          "Mitochondria, apoptosis, oxidative stress"
+        ]
+      },
+      {
+        "title": "Hormonal Regulation & Integration of",
+        "concepts": []
+      },
+      {
+        "title": "Metabolism",
+        "concepts": [
+          "Higher level integration of hormone"
+        ]
+      },
+      {
+        "title": "structure",
+        "concepts": []
+      },
+      {
+        "title": "and function",
+        "concepts": [
+          "Tissue specific metabolism",
+          "Hormonal regulation of fuel metabolism",
+          "Obesity and regulation of body mass"
+        ]
+      },
+      {
+        "title": "Category 2A: Assemblies of molecules, cells, and groups of cells within single",
+        "concepts": []
+      },
+      {
+        "title": "cellular and multicellular organisms",
+        "concepts": []
+      },
+      {
+        "title": "Plasma Membrane",
+        "concepts": [
+          "General function in cell containment",
+          "Composition of membranes",
+          "Lipid components",
+          "Phospholipids (and phosphatids)",
+          "Steroids",
+          "Waxes",
+          "Protein components",
+          "Fluid mosaic model",
+          "Membrane dynamics",
+          "Solute transport across membranes",
+          "Thermodynamic considerations",
+          "Osmosis",
+          "Colligative properties, osmotic pressure",
+          "Passive transport",
+          "Active transport",
+          "Sodium/potassium pump",
+          "Membrane channels",
+          "Membrane potential",
+          "Membrane receptors",
+          "Exocytosis and endocytosis"
+        ]
+      },
+      {
+        "title": "Intercellular junctions",
+        "concepts": [
+          "Gap junctions",
+          "Tight junctions",
+          "Desmosomes"
+        ]
+      },
+      {
+        "title": "Membrane-Bound Organelles and",
+        "concepts": []
+      },
+      {
+        "title": "Defining",
+        "concepts": []
+      },
+      {
+        "title": "Characteristics of Eukaryotic Cells",
+        "concepts": [
+          "Defining characteristics of eukaryotic"
+        ]
+      },
+      {
+        "title": "cells: membrane bound nucleus, presence of",
+        "concepts": []
+      },
+      {
+        "title": "organelles, mitotic division",
+        "concepts": []
+      },
+      {
+        "title": "Nucleus",
+        "concepts": [
+          "Compartmentalization, storage of genetic"
+        ]
+      },
+      {
+        "title": "information",
+        "concepts": [
+          "Nucleolus: location and function",
+          "Nuclear envelope, nuclear pores"
+        ]
+      },
+      {
+        "title": "Mitochondria",
+        "concepts": [
+          "Site of ATP production",
+          "Inner and outer membrane structure",
+          "Self-replication",
+          "Lysosomes: membrane-bound vesicles"
+        ]
+      },
+      {
+        "title": "containing hydrolytic enzymes",
+        "concepts": []
+      },
+      {
+        "title": "Endoplasmic reticulum",
+        "concepts": [
+          "Rough and smooth components",
+          "Rough endoplasmic reticulum site of"
+        ]
+      },
+      {
+        "title": "ribosomes",
+        "concepts": [
+          "Double membrane structure",
+          "Role in membrane biosynthesis",
+          "Role in biosynthesis of secreted proteins"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": [
+          "Golgi apparatus: general structure and"
+        ]
+      },
+      {
+        "title": "role in  packaging and secretion",
+        "concepts": [
+          "Peroxisomes: organelles that collect"
+        ]
+      },
+      {
+        "title": "peroxides",
+        "concepts": []
+      },
+      {
+        "title": "Cytoskeleton",
+        "concepts": [
+          "General function in cell support and"
+        ]
+      },
+      {
+        "title": "movement",
+        "concepts": [
+          "Microfilaments: composition and role in"
+        ]
+      },
+      {
+        "title": "cleavage and contractility",
+        "concepts": [
+          "Microtubules: composition and role in"
+        ]
+      },
+      {
+        "title": "support and transport",
+        "concepts": [
+          "Intermediate filaments, role in support",
+          "Composition and function of cilia and"
+        ]
+      },
+      {
+        "title": "flagella",
+        "concepts": [
+          "Centrioles, microtubule organizing centers"
+        ]
+      },
+      {
+        "title": "Tissues Formed From Eukaryotic Cells",
+        "concepts": [
+          "Epithelial cells",
+          "Connective tissue cells"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Content Category 2B: The structure, growth, physiology, and genetics of",
+    "subtopics": [
+      {
+        "title": "prokaryotes and viruses",
+        "concepts": []
+      },
+      {
+        "title": "Cell Theory",
+        "concepts": [
+          "History, development, impact on biology"
+        ]
+      },
+      {
+        "title": "Classification and Structure of Prokaryotic",
+        "concepts": []
+      },
+      {
+        "title": "Cells",
+        "concepts": [
+          "Prokaryotic domains: Archaea and"
+        ]
+      },
+      {
+        "title": "Bacteria",
+        "concepts": [
+          "Major classifications of bacteria by shape:"
+        ]
+      },
+      {
+        "title": "Bacilli, Spirilli or Cocci",
+        "concepts": [
+          "Lack of nuclear membrane and mitotic"
+        ]
+      },
+      {
+        "title": "apparatus",
+        "concepts": [
+          "Presence of cell wall in bacteria",
+          "Flagellar propulsion, mechanism"
+        ]
+      },
+      {
+        "title": "Growth and Physiology of Prokaryotic",
+        "concepts": []
+      },
+      {
+        "title": "Cells",
+        "concepts": [
+          "Reproduction by fission",
+          "High degree of genetic adaptability,"
+        ]
+      },
+      {
+        "title": "acquisition of antibiotic resistance",
+        "concepts": [
+          "Exponential growth",
+          "Existence of anaerobic and aerobic"
+        ]
+      },
+      {
+        "title": "variants",
+        "concepts": [
+          "Parasitic and symbiotic",
+          "Chemotaxis"
+        ]
+      },
+      {
+        "title": "Genetics of Prokaryotic Cells",
+        "concepts": [
+          "Existence of plasmids, extragenomic"
+        ]
+      },
+      {
+        "title": "DNA",
+        "concepts": [
+          "Transformation: incorporation into"
+        ]
+      },
+      {
+        "title": "bacterial genome of DNA fragments from",
+        "concepts": []
+      },
+      {
+        "title": "external medium",
+        "concepts": [
+          "Conjugation",
+          "Transposons (including eukaryotic cells)"
+        ]
+      },
+      {
+        "title": "Virus Structure",
+        "concepts": [
+          "General structural characteristics (nucleic"
+        ]
+      },
+      {
+        "title": "acid",
+        "concepts": []
+      },
+      {
+        "title": "and protein, enveloped and non-",
+        "concepts": []
+      },
+      {
+        "title": "enveloped)",
+        "concepts": [
+          "Lack organelles and nucleus",
+          "Structural aspects of typical bacteriophage",
+          "Genomic content - RNA or DNA",
+          "Size relative to bacteria and eukaryotic"
+        ]
+      },
+      {
+        "title": "cells",
+        "concepts": []
+      },
+      {
+        "title": "Viral Life Cycle",
+        "concepts": [
+          "Self-replicating biological units that"
+        ]
+      },
+      {
+        "title": "reproduce within host cell",
+        "concepts": [
+          "Generalized phage and animal virus life"
+        ]
+      },
+      {
+        "title": "cycles",
+        "concepts": [
+          "Attachment to host, penetration of cell"
+        ]
+      },
+      {
+        "title": "membrane or cell wall, and entry of viral",
+        "concepts": []
+      },
+      {
+        "title": "genetic material",
+        "concepts": [
+          "Use of host synthetic mechanism to"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "replicate viral components",
+        "concepts": [
+          "Self-assembly and release of new viral"
+        ]
+      },
+      {
+        "title": "particles",
+        "concepts": [
+          "Transduction: transfer of genetic material"
+        ]
+      },
+      {
+        "title": "by  viruses",
+        "concepts": [
+          "Retrovirus life cycle: integration into host"
+        ]
+      },
+      {
+        "title": "DNA, reverse transcriptase, HIV",
+        "concepts": [
+          "Prions and viroids: subviral particles"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Content Category 2C: Processes of cell division, differentiation, and",
+    "subtopics": [
+      {
+        "title": "specialization",
+        "concepts": []
+      },
+      {
+        "title": "Mitosis and mitotic structures",
+        "concepts": [
+          "Mitotic process: prophase, metaphase,"
+        ]
+      },
+      {
+        "title": "anaphase, telophase, interphase",
+        "concepts": [
+          "Centrioles, asters, spindles",
+          "Chromatids, centromeres, kinetochores",
+          "Nuclear membrane breakdown and"
+        ]
+      },
+      {
+        "title": "reorganization",
+        "concepts": [
+          "Mechanisms of chromosome movement",
+          "Phases of cell cycle: G0, G1, S, G2, M",
+          "Growth arrest",
+          "Control of cell cycle",
+          "Loss of cell cycle controls in cancer cells"
+        ]
+      },
+      {
+        "title": "Biosignalling",
+        "concepts": [
+          "Oncogenes, apoptosis"
+        ]
+      },
+      {
+        "title": "Reproductive System",
+        "concepts": [
+          "Gametogenesis by meiosis",
+          "Ovum and sperm - differences in"
+        ]
+      },
+      {
+        "title": "formation",
+        "concepts": []
+      },
+      {
+        "title": "and morphology",
+        "concepts": [
+          "Relative contribution to next generation",
+          "Reproductive sequence: fertilization,"
+        ]
+      },
+      {
+        "title": "implantation, development, birth",
+        "concepts": []
+      },
+      {
+        "title": "Embryogenesis",
+        "concepts": [
+          "Stages of early development (order and"
+        ]
+      },
+      {
+        "title": "general features of each stage)",
+        "concepts": [
+          "Fertilization",
+          "Cleavage",
+          "Blastula formation",
+          "Gastrulation",
+          "First cell movements",
+          "Formation of primary germ layers"
+        ]
+      },
+      {
+        "title": "(endoderm,",
+        "concepts": []
+      },
+      {
+        "title": "mesoderm, ectoderm)",
+        "concepts": [
+          "Neurulation",
+          "Major structures arising out of primary"
+        ]
+      },
+      {
+        "title": "germ",
+        "concepts": []
+      },
+      {
+        "title": "layers",
+        "concepts": [
+          "Neural crest",
+          "Environment–gene interaction in"
+        ]
+      },
+      {
+        "title": "development",
+        "concepts": []
+      },
+      {
+        "title": "Development – Cell specialization",
+        "concepts": [
+          "Determination",
+          "Differentiation",
+          "Tissue types",
+          "Cell–cell communication in development",
+          "Cell migration",
+          "Pluripotency: stem cells",
+          "Gene regulation in development",
+          "Programmed cell death",
+          "Existence of regenerative capacity in"
+        ]
+      },
+      {
+        "title": "various species",
+        "concepts": [
+          "Senescence and aging"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      }
+    ]
+  },
+  {
+    "category": "Content Category 3A: Structure and functions of the nervous and endocrine",
+    "subtopics": [
+      {
+        "title": "systems and ways in which these systems coordinate the organ systems",
+        "concepts": []
+      },
+      {
+        "title": "Lipids",
+        "concepts": [
+          "Structures",
+          "Steroids",
+          "Terpenes and terpenoids"
+        ]
+      },
+      {
+        "title": "Endocrine System",
+        "concepts": [
+          "Function of endocrine system: specific"
+        ]
+      },
+      {
+        "title": "chemical control at cell, tissue, and organ",
+        "concepts": []
+      },
+      {
+        "title": "level",
+        "concepts": [
+          "Definitions of endocrine gland, hormone",
+          "Major endocrine glands: names, locations,"
+        ]
+      },
+      {
+        "title": "products",
+        "concepts": [
+          "Major types of hormones",
+          "Neuroendrocrinology ― relation between"
+        ]
+      },
+      {
+        "title": "neurons and hormonal systems",
+        "concepts": []
+      },
+      {
+        "title": "Mechanisms of Hormone Action",
+        "concepts": [
+          "Cellular mechanisms of hormone action",
+          "Transport of hormones: blood supply",
+          "Specificity of hormones: target tissue",
+          "Integration with nervous system:"
+        ]
+      },
+      {
+        "title": "feedback  control regulation by second",
+        "concepts": []
+      },
+      {
+        "title": "messengers",
+        "concepts": [
+          "Regulation by second messengers"
+        ]
+      },
+      {
+        "title": "Nervous System: Structure and Function",
+        "concepts": [
+          "High level control and integration of body"
+        ]
+      },
+      {
+        "title": "systems",
+        "concepts": [
+          "Adaptive capability to external influences",
+          "Organization of vertebrate nervous"
+        ]
+      },
+      {
+        "title": "system",
+        "concepts": [
+          "Sensor and effector neurons",
+          "Sympathetic and parasympathetic nervous"
+        ]
+      },
+      {
+        "title": "systems: antagonistic control",
+        "concepts": [
+          "Feedback loop, reflex arc",
+          "Role of spinal cord and supraspinal"
+        ]
+      },
+      {
+        "title": "circuits",
+        "concepts": [
+          "Feedback control with endocrine system"
+        ]
+      },
+      {
+        "title": "Nerve Cell and Electrochemistry",
+        "concepts": [
+          "Cell body: site of nucleus, organelles",
+          "Dendrites: branched extensions of cell"
+        ]
+      },
+      {
+        "title": "body",
+        "concepts": [
+          "Axon: structure and function",
+          "Myelin sheath, Schwann cells, insulation"
+        ]
+      },
+      {
+        "title": "of",
+        "concepts": []
+      },
+      {
+        "title": "axon",
+        "concepts": [
+          "Nodes of Ranvier: propagation of nerve"
+        ]
+      },
+      {
+        "title": "impulse along axon",
+        "concepts": [
+          "Synapse: site of impulse propagation"
+        ]
+      },
+      {
+        "title": "between",
+        "concepts": []
+      },
+      {
+        "title": "cells",
+        "concepts": [
+          "Synaptic activity: transmitter molecules",
+          "Resting potential: electrochemical gradient",
+          "Action potential: threshold, all-or-none",
+          "Sodium/potassium pump",
+          "Excitatory and inhibitory nerve fibers:"
+        ]
+      },
+      {
+        "title": "summation, frequency of firing",
+        "concepts": [
+          "Glial cells, neuroglia",
+          "Concentration cell: direction of electron"
+        ]
+      },
+      {
+        "title": "flow,",
+        "concepts": []
+      },
+      {
+        "title": "Nernst equation",
+        "concepts": []
+      },
+      {
+        "title": "Bio-signaling",
+        "concepts": [
+          "Voltage and ligand gated ion channels",
+          "Receptor enzymes",
+          "G protein-coupled receptors"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "Category 3B: Structure and integrative functions of the main organ systems",
+        "concepts": []
+      },
+      {
+        "title": "Respiratory System - general function",
+        "concepts": [
+          "Gas exchange, thermoregulation",
+          "Protection against disease: particulate matter",
+          "Structure of lungs and alveoli",
+          "Breathing mechanisms",
+          "Diaphragm, rib cage, differential pressure",
+          "Resiliency and surface tension effects",
+          "Thermoregulation: nasal and tracheal capillary"
+        ]
+      },
+      {
+        "title": "beds;",
+        "concepts": []
+      },
+      {
+        "title": "evaporation, panting",
+        "concepts": [
+          "Particulate filtration: nasal hairs, mucus/cilia"
+        ]
+      },
+      {
+        "title": "system in",
+        "concepts": []
+      },
+      {
+        "title": "lungs",
+        "concepts": [
+          "Alveolar gas exchange",
+          "Diffusion, differential partial pressure",
+          "Henry’s Law",
+          "pH control",
+          "Regulation by nervous control - CO2 sensitivity"
+        ]
+      },
+      {
+        "title": "Circulatory System",
+        "concepts": [
+          "Functions: circulation of oxygen, nutrients,"
+        ]
+      },
+      {
+        "title": "hormones,",
+        "concepts": []
+      },
+      {
+        "title": "ions and fluids, removal of metabolic waste",
+        "concepts": [
+          "Role in thermoregulation",
+          "Four-chambered heart: structure and function",
+          "Endothelial cells",
+          "Systolic and diastolic pressure",
+          "Pulmonary and systemic circulation",
+          "Arterial and venous systems (arteries, arterioles,"
+        ]
+      },
+      {
+        "title": "venules, veins)",
+        "concepts": [
+          "Structural and functional differences, pressure and"
+        ]
+      },
+      {
+        "title": "flow characteristics of arterial and venous systems",
+        "concepts": []
+      },
+      {
+        "title": "Capillary beds",
+        "concepts": [
+          "Mechanisms of gas and solute exchange",
+          "Mechanism of heat exchange",
+          "Source of peripheral resistance"
+        ]
+      },
+      {
+        "title": "Composition of blood",
+        "concepts": [
+          "Plasma, chemicals, blood cells",
+          "Erythrocyte production and destruction; spleen,"
+        ]
+      },
+      {
+        "title": "bone",
+        "concepts": []
+      },
+      {
+        "title": "marrow",
+        "concepts": [
+          "Regulation of plasma volume",
+          "Coagulation, clotting mechanisms"
+        ]
+      },
+      {
+        "title": "Oxygen transport by blood",
+        "concepts": [
+          "Hemoglobin, hematocrit",
+          "Oxygen content and affinity",
+          "Carbon dioxide transport and level in blood",
+          "Nervous and endocrine control"
+        ]
+      },
+      {
+        "title": "Lymphatic System",
+        "concepts": [
+          "Structure of lymphatic system",
+          "Equalization of fluid distribution",
+          "Transport of proteins and large glycerides",
+          "Production of lymphocytes involved in immune"
+        ]
+      },
+      {
+        "title": "reactions",
+        "concepts": [
+          "Return of materials to the blood"
+        ]
+      },
+      {
+        "title": "Immune System",
+        "concepts": [
+          "Innate (non-specific) vs. adaptive (specific)"
+        ]
+      },
+      {
+        "title": "immunity",
+        "concepts": [
+          "Adaptive immune system cells",
+          "T-lymphocytes and B-lymphocytes",
+          "Innate immune system cells - Macrophages and"
+        ]
+      },
+      {
+        "title": "Phagocytes",
+        "concepts": [
+          "Tissue – Bone marrow, Spleen, Thymus and"
+        ]
+      },
+      {
+        "title": "Lymph",
+        "concepts": []
+      },
+      {
+        "title": "nodes",
+        "concepts": [
+          "Concept of antigen and antibody",
+          "Antigen presentation",
+          "Clonal selection",
+          "Antigen-antibody recognition",
+          "Structure of antibody molecule",
+          "Recognition of self vs. non-self, autoimmune"
+        ]
+      },
+      {
+        "title": "diseases",
+        "concepts": [
+          "Major histocompatibility complex"
+        ]
+      },
+      {
+        "title": "Digestive System",
+        "concepts": [
+          "Ingestion",
+          "Saliva as lubrication and source of enzymes",
+          "Ingestion; esophagus, transport function"
+        ]
+      },
+      {
+        "title": "Stomach",
+        "concepts": [
+          "Storage and churning of food",
+          "Low pH, gastric juice, mucal protection against"
+        ]
+      },
+      {
+        "title": "self-destruction",
+        "concepts": [
+          "Production of digestive enzymes, site of digestion",
+          "Structure (gross)"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "Liver",
+        "concepts": [
+          "Structural relationship within gastrointestinal"
+        ]
+      },
+      {
+        "title": "system",
+        "concepts": [
+          "Production of bile",
+          "Role in blood glucose regulation, detoxification"
+        ]
+      },
+      {
+        "title": "Bile",
+        "concepts": [
+          "Storage in gall bladder",
+          "Function"
+        ]
+      },
+      {
+        "title": "Pancreas",
+        "concepts": [
+          "Production of enzymes",
+          "Transport of enzymes to small intestine"
+        ]
+      },
+      {
+        "title": "Small Intestine",
+        "concepts": [
+          "Absorption of food molecules and water",
+          "Function and structure of villi",
+          "Production of enzymes, site of digestion",
+          "Neutralization of stomach acid",
+          "Structure (anatomic subdivisions)"
+        ]
+      },
+      {
+        "title": "Large Intestine",
+        "concepts": [
+          "Absorption of water",
+          "Bacterial flora",
+          "Structure (gross)",
+          "Rectum: storage/elimination of waste",
+          "Muscular control: peristalsis",
+          "Endocrine control: hormones and targets tissues",
+          "Nervous control: the enteric nervous system"
+        ]
+      },
+      {
+        "title": "Excretory System",
+        "concepts": []
+      },
+      {
+        "title": "Roles in homeostasis",
+        "concepts": [
+          "Blood pressure",
+          "Osmoregulation",
+          "Acid-base balance",
+          "Removal of soluble nitrogenous waste"
+        ]
+      },
+      {
+        "title": "Kidney structure",
+        "concepts": [
+          "Cortex",
+          "Medulla",
+          "Nephron structure",
+          "Glomerulus",
+          "Bowman’s capsule",
+          "Proximal tubule",
+          "Loop of Henle, distal tubule, collecting duct",
+          "Glomerular filtration",
+          "Secretion and reabsorption of solutes",
+          "Concentration of urine",
+          "Counter-current multiplier mechanism",
+          "Storage and elimination: ureter, bladder, urethra",
+          "Osmoregulation: capillary reabsorption of H2O,"
+        ]
+      },
+      {
+        "title": "amino acids, glucose, ions",
+        "concepts": [
+          "Muscular control: sphincter muscle"
+        ]
+      },
+      {
+        "title": "Reproductive System",
+        "concepts": [
+          "Male and female reproductive structures and their"
+        ]
+      },
+      {
+        "title": "functions",
+        "concepts": [
+          "Gonads",
+          "Genitalia",
+          "Differences between male and female structures"
+        ]
+      },
+      {
+        "title": "Hormonal control of reproduction",
+        "concepts": [
+          "Male and female sexual development",
+          "Female reproductive cycle",
+          "Pregnancy, parturition, lactation",
+          "Integration with nervous control"
+        ]
+      },
+      {
+        "title": "Muscle System - Function",
+        "concepts": [
+          "Support: mobility",
+          "Peripheral circulatory assistance",
+          "Thermoregulation (shivering reflex)",
+          "Structure of three basic muscle types: striated,"
+        ]
+      },
+      {
+        "title": "smooth, cardiac",
+        "concepts": []
+      },
+      {
+        "title": "Muscle structure and control of contraction",
+        "concepts": [
+          "T-tubule system",
+          "Contractile apparatus",
+          "Sarcoplasmic reticulum",
+          "Fiber type",
+          "Contractile velocity of different muscle types",
+          "Regulation of cardiac muscle contraction",
+          "Oxygen debt: fatigue"
+        ]
+      },
+      {
+        "title": "Nervous control",
+        "concepts": [
+          "Motor neurons",
+          "Neuromuscular junction, motor end plates",
+          "Sympathetic and parasympathetic innervation",
+          "Voluntary and involuntary muscles"
+        ]
+      },
+      {
+        "title": "Specialized Cell - Muscle Cell",
+        "concepts": [
+          "Structural characteristics of striated, smooth, and"
+        ]
+      },
+      {
+        "title": "cardiac muscle",
+        "concepts": [
+          "Abundant mitochondria in red muscle cells: ATP"
+        ]
+      },
+      {
+        "title": "source",
+        "concepts": [
+          "Actin and myosin filaments, cross-bridge cycle,"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "sliding filament model",
+        "concepts": [
+          "Sarcomeres: “I” and “A” bands, “M” and “Z”"
+        ]
+      },
+      {
+        "title": "lines,",
+        "concepts": []
+      },
+      {
+        "title": "“H” zone",
+        "concepts": [
+          "Presence of troponin and tropomyosin",
+          "Calcium regulation of contraction",
+          "Cartilage: structure and function",
+          "Ligaments, tendons",
+          "Endocrine control"
+        ]
+      },
+      {
+        "title": "Skeletal System",
+        "concepts": [
+          "Functions of Structural rigidity and support",
+          "Calcium storage",
+          "Physical protection",
+          "Skeletal structure",
+          "Specialization of bone types, structures",
+          "Joint structures",
+          "Endoskeleton vs. exoskeleton"
+        ]
+      },
+      {
+        "title": "Bone structure",
+        "concepts": [
+          "Calcium and protein matrix",
+          "Cellular composition of bone"
+        ]
+      },
+      {
+        "title": "Integumentary System (Skin)",
+        "concepts": [
+          "Layer differentiation, cell types",
+          "Relative impermeability to water",
+          "Functions in homeostasis and osmoregulation",
+          "Functions in thermoregulation",
+          "Hair, erectile musculature",
+          "Fat layer for insulation",
+          "Sweat glands, location in dermis",
+          "Vasoconstriction and vasodilation in surface"
+        ]
+      },
+      {
+        "title": "capillaries",
+        "concepts": [
+          "Nails, calluses, hair",
+          "Protection against abrasion, disease organisms",
+          "Hormonal control: sweating, vasodilation, and"
+        ]
+      },
+      {
+        "title": "vasoconstriction",
+        "concepts": []
+      }
+    ]
+  },
+  {
+    "category": "Content Category 4A: Translational motion, forces, work, energy, and equilibrium in living",
+    "subtopics": [
+      {
+        "title": "systems",
+        "concepts": []
+      },
+      {
+        "title": "Translational motion",
+        "concepts": [
+          "Units and dimensions",
+          "Vectors, vector addition",
+          "Speed, velocity, acceleration"
+        ]
+      },
+      {
+        "title": "Force and Equilibrium",
+        "concepts": [
+          "Newton’s First Law, inertia",
+          "Newton’s Second Law (F=ma)",
+          "Newton’s Third Law, forces equal and opposite",
+          "Torques, lever arms",
+          "Friction, Static and kinetic, Center of mass",
+          "Vector analysis of forces acting on a point object"
+        ]
+      },
+      {
+        "title": "Work and Energy",
+        "concepts": [
+          "Work done by a constant force (W=Fd cos𝜃)",
+          "Mechanical advantage",
+          "Work Kinetic Energy Theorem",
+          "Kinetic Energy: KE= ½ mv2, units",
+          "Potential Energy (PE=mgh,PEe=½ kx2 spring)",
+          "Conservation of energy and forces",
+          "Power, units"
+        ]
+      },
+      {
+        "title": "Periodic Motion",
+        "concepts": [
+          "Amplitude, frequency, phase",
+          "Transverse and longitudinal waves: wavelength and"
+        ]
+      },
+      {
+        "title": "propagation on speed",
+        "concepts": []
+      }
+    ]
+  },
+  {
+    "category": "Content Category 4B: Fluids in blood circulation, gas movement and gas exchange",
+    "subtopics": [
+      {
+        "title": "Fluids",
+        "concepts": [
+          "Density, specific gravity",
+          "Buoyancy, Archimedes’ Principle (FB=ρmg)",
+          "Hydrostatic pressure, P=𝜌gh (pressure vs depth)",
+          "Pascal’s Law (F1/A1) = (F2/A2)"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": [
+          "Viscosity: Poiseuille Flow",
+          "Continuity equation (Av=constant)",
+          "Turbulence at high velocities",
+          "Surface tension",
+          "Bernoulli’s equation"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": [
+          "Venturi effect, pitot tube",
+          "Arterial and venous systems; pressure and flow"
+        ]
+      },
+      {
+        "title": "characteristics",
+        "concepts": []
+      },
+      {
+        "title": "Gas Phase",
+        "concepts": [
+          "Absolute temperature, Kelvin Scale (K)",
+          "Pressure, simple mercury barometer",
+          "Molar volume at 0°C and 1 atm = 22.4 L/mol"
+        ]
+      },
+      {
+        "title": "Ideal gas",
+        "concepts": [
+          "Definition",
+          "Ideal Gas Law: PV = nRT",
+          "Boyle’s Law: PV = constant",
+          "Charles’ Law: V/T = constant",
+          "Avogadro’s Law: V/n = constant",
+          "Kinetic Molecular Theory of Gases",
+          "Heat capacity at constant volume and at constant"
+        ]
+      },
+      {
+        "title": "pressure",
+        "concepts": [
+          "Boltzmann’s Constant",
+          "Deviation of real gas behavior from Ideal Gas Law:"
+        ]
+      },
+      {
+        "title": "both Qualitative and Quantitative (Van der",
+        "concepts": []
+      },
+      {
+        "title": "Waals’",
+        "concepts": []
+      },
+      {
+        "title": "Equation)",
+        "concepts": [
+          "Partial pressure, mole fraction",
+          "Dalton’s Law relating partial pressure to"
+        ]
+      },
+      {
+        "title": "composition",
+        "concepts": []
+      }
+    ]
+  },
+  {
+    "category": "Content Category 4C: Electrochemistry and electrical circuits and their elements",
+    "subtopics": [
+      {
+        "title": "Electrostatics",
+        "concepts": [
+          "Charge, conductors, charge conservation",
+          "Insulators",
+          "Coulomb’s Law",
+          "Electric field E",
+          "Field lines",
+          "Field due to charge distribution",
+          "Electrostatic energy, electric potential at point in"
+        ]
+      },
+      {
+        "title": "space",
+        "concepts": []
+      },
+      {
+        "title": "Circuit elements",
+        "concepts": [
+          "Current I =ΔQ/Δt, sign conventions, units",
+          "Electromotive force, voltage",
+          "Resistance and Ohm’s Law: I = V/R",
+          "Resistors in series and parallel",
+          "Resistivity ρ=RA/L"
+        ]
+      },
+      {
+        "title": "Capacitance",
+        "concepts": [
+          "Parallel plate capacitor",
+          "Energy of charged capacitor",
+          "Capacitors in series",
+          "Capacitors in parallel",
+          "Dielectrics",
+          "Conductivity",
+          "Metallic",
+          "Electrolytic",
+          "Meters"
+        ]
+      },
+      {
+        "title": "Magnetism",
+        "concepts": [
+          "Definition of magnetic field B",
+          "Motion of charged particles in magnetic field;"
+        ]
+      },
+      {
+        "title": "Lorentz force",
+        "concepts": []
+      },
+      {
+        "title": "Electrochemistry",
+        "concepts": [
+          "Electrolytic cell",
+          "Electrolysis",
+          "Anode, cathode",
+          "Electrolyte",
+          "Faraday’s Law relating to the amount of elements"
+        ]
+      },
+      {
+        "title": "deposited (or gas liberated) at an electrode to current",
+        "concepts": [
+          "Electron flow; oxidation, and reduction at the"
+        ]
+      },
+      {
+        "title": "electrodes",
+        "concepts": []
+      },
+      {
+        "title": "Galvanic or Voltaic cells",
+        "concepts": [
+          "Half-reactions",
+          "Reduction potentials, cell potential",
+          "Direction of electron flow",
+          "Concentration cell"
+        ]
+      },
+      {
+        "title": "Batteries",
+        "concepts": [
+          "Electromotive force, Voltage",
+          "Lead-storage batteries",
+          "Nickel-cadmium batteries"
+        ]
+      },
+      {
+        "title": "Specialized nerve cell",
+        "concepts": [
+          "Myelin sheath, Schwann cells, insulation of axon",
+          "Nodes of Ranvier: propagation of nerve impulse"
+        ]
+      },
+      {
+        "title": "along axon",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "4D: How light and sound interact with matter",
+        "concepts": []
+      },
+      {
+        "title": "Sound",
+        "concepts": [
+          "Production of sound",
+          "Relative speed of sound in solids, liquids, and gases",
+          "Intensity of sound, decibel units, log scale",
+          "Attenuation (Damping)",
+          "Doppler Effect: moving sound source or observer,"
+        ]
+      },
+      {
+        "title": "reflection of sound from a moving object",
+        "concepts": [
+          "Pitch",
+          "Resonance in pipes and strings",
+          "Ultrasound",
+          "Shock waves"
+        ]
+      },
+      {
+        "title": "Light, Electromagnetic Radiation",
+        "concepts": [
+          "Concept of Interference; Young Double-slit"
+        ]
+      },
+      {
+        "title": "Experiment",
+        "concepts": [
+          "Thin films, diffraction grating, single-slit diffraction",
+          "Other diffraction phenomena, X-ray diffraction",
+          "Polarization of light: linear and circular",
+          "Properties of electromagnetic radiation",
+          "Velocity equals constant c, in vacuo",
+          "Electromagnetic radiation consists of"
+        ]
+      },
+      {
+        "title": "perpendicularly",
+        "concepts": []
+      },
+      {
+        "title": "oscillating electric and magnetic fields; direction of",
+        "concepts": []
+      },
+      {
+        "title": "propagation is perpendicular to both",
+        "concepts": [
+          "Classification of electromagnetic spectrum, photon"
+        ]
+      },
+      {
+        "title": "energy E = hf",
+        "concepts": [
+          "Visual spectrum, color"
+        ]
+      },
+      {
+        "title": "Molecular Structure and Absorption Spectra",
+        "concepts": [
+          "Infrared region",
+          "Intramolecular vibrations and rotations",
+          "Recognizing common characteristic group"
+        ]
+      },
+      {
+        "title": "absorptions,",
+        "concepts": []
+      },
+      {
+        "title": "fingerprint region",
+        "concepts": [
+          "Visible region",
+          "Absorption in visible region gives complementary"
+        ]
+      },
+      {
+        "title": "(e.g.",
+        "concepts": []
+      },
+      {
+        "title": "carotene)",
+        "concepts": [
+          "Effect of structural changes on absorption (e.g."
+        ]
+      },
+      {
+        "title": "indicators)",
+        "concepts": [
+          "Ultraviolet region",
+          "π-electron and non-bonding electron transitions",
+          "Conjugated systems",
+          "NMR spectroscopy",
+          "Protons in a magnetic field; equivalent protons",
+          "Spin-spin splitting"
+        ]
+      },
+      {
+        "title": "Geometrical Optics",
+        "concepts": [
+          "Reflection from plane surface: angles of incidence"
+        ]
+      },
+      {
+        "title": "and",
+        "concepts": []
+      },
+      {
+        "title": "reflection",
+        "concepts": [
+          "Refraction, refractive index n, Snell’s law:"
+        ]
+      },
+      {
+        "title": "n1 sinθ1 = n2 sinθ2",
+        "concepts": [
+          "Dispersion, change of index of refraction with"
+        ]
+      },
+      {
+        "title": "wavelength",
+        "concepts": [
+          "Conditions for total internal reflection",
+          "Spherical mirrors",
+          "Center of curvature",
+          "Focal length",
+          "Real and virtual images",
+          "Thin lenses",
+          "Converging and diverging lenses",
+          "Use of 1/p + 1/q = 1/f, with sign conventions",
+          "Lens strength, diopters",
+          "Combination of lenses",
+          "Lens aberration",
+          "Optical Instruments, including"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      }
+    ]
+  },
+  {
+    "category": "Content Category 4E: Atoms, nuclear decay, electronic structure, and atomic chemical",
+    "subtopics": [
+      {
+        "title": "behavior",
+        "concepts": []
+      },
+      {
+        "title": "Atomic Nucleus",
+        "concepts": [
+          "Atomic number, atomic weight",
+          "Neutrons, protons, isotopes",
+          "Nuclear forces, binding energy",
+          "Radioactive decay (α, β, γ)",
+          "Half-life, exponential decay, semi-log plots",
+          "Mass spectrometer"
+        ]
+      },
+      {
+        "title": "Electronic Structure",
+        "concepts": [
+          "Orbital structure of hydrogen atom, principal"
+        ]
+      },
+      {
+        "title": "quantum",
+        "concepts": []
+      },
+      {
+        "title": "number n, number of electrons per orbital",
+        "concepts": [
+          "Ground state, excited states",
+          "Absorption and emission line spectra",
+          "Use of Pauli Exclusion Principle",
+          "Paramagnetism and diamagnetism",
+          "Conventional notation for electronic structure",
+          "Bohr atom",
+          "Heisenberg Uncertainty Principle",
+          "Effective nuclear charge",
+          "Photoelectric effect"
+        ]
+      },
+      {
+        "title": "The Periodic Table",
+        "concepts": [
+          "Alkali metals",
+          "Alkaline earth metals: their chemical characteristics",
+          "Halogens: their chemical characteristics",
+          "Noble gases: their physical and chemical"
+        ]
+      },
+      {
+        "title": "characteristics",
+        "concepts": [
+          "Transition metals",
+          "Representative elements",
+          "Metals and non-metals",
+          "Oxygen group",
+          "Valence electrons",
+          "First and second ionization energy: prediction of"
+        ]
+      },
+      {
+        "title": "electronic structure for elements in different",
+        "concepts": []
+      },
+      {
+        "title": "groups or rows",
+        "concepts": [
+          "Electron affinity and variation with group and row",
+          "Electronegativity: Comparative values for some"
+        ]
+      },
+      {
+        "title": "representative elements and important groups",
+        "concepts": [
+          "Electron shells and the sizes of atoms and ions"
+        ]
+      },
+      {
+        "title": "Stoichiometry",
+        "concepts": [
+          "Molecular weight",
+          "Empirical versus molecular formula",
+          "Metric units commonly used in the context of"
+        ]
+      },
+      {
+        "title": "chemistry",
+        "concepts": [
+          "Description of composition by percent mass",
+          "Mole concept, Avogadro’s number NA",
+          "Density",
+          "Oxidation number",
+          "Common oxidizing and reducing agents",
+          "Disproportionation reactions",
+          "Description of reactions by chemical equations and"
+        ]
+      },
+      {
+        "title": "writing conventions",
+        "concepts": [
+          "Balancing equation",
+          "Limiting reactants",
+          "Theoretical yields"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "Foundation 5A: Unique nature of water and its solutions",
+        "concepts": []
+      },
+      {
+        "title": "+ and NH3)",
+        "concepts": []
+      },
+      {
+        "title": "Acid/Base Equilibria",
+        "concepts": [
+          "Bronsted-Lowry acids and bases",
+          "Ionization of water, Kw",
+          "Definition of pH: pH of pure water",
+          "Conjugate acids and bases (e.g. NH4",
+          "Strong acids and bases (e.g. nitric, sulfuric)",
+          "Dissociation of weak acids and bases with and"
+        ]
+      },
+      {
+        "title": "without",
+        "concepts": []
+      },
+      {
+        "title": "added salts",
+        "concepts": [
+          "Hydrolysis of salts of weak acids or bases",
+          "Calculation of pH of solutions of salts of weak"
+        ]
+      },
+      {
+        "title": "acids or",
+        "concepts": []
+      },
+      {
+        "title": "bases",
+        "concepts": [
+          "Equilibrium constants Ka and Kb: pKa, pKb",
+          "Definition and concepts of common buffer"
+        ]
+      },
+      {
+        "title": "systems",
+        "concepts": [
+          "Influence on titration curves"
+        ]
+      },
+      {
+        "title": "Ions in Solutions",
+        "concepts": [
+          "Anion, cation: common names, formulas and"
+        ]
+      },
+      {
+        "title": "charges",
+        "concepts": []
+      },
+      {
+        "title": "for common ions",
+        "concepts": [
+          "Hydration, the hydronium ion"
+        ]
+      },
+      {
+        "title": "Solubility",
+        "concepts": [
+          "Units of concentration (e.g. molarity)",
+          "Solubility product constant; Ksp",
+          "Common-ion effect, its use in laboratory"
+        ]
+      },
+      {
+        "title": "separations",
+        "concepts": [
+          "Complex ion formation and solubility",
+          "Solubility and pH"
+        ]
+      },
+      {
+        "title": "Titration",
+        "concepts": [
+          "Indicators and Neutralization",
+          "Interpretation of the titration curves",
+          "Redox titration"
+        ]
+      },
+      {
+        "title": "5B: Nature of molecules and molecular interactions",
+        "concepts": []
+      },
+      {
+        "title": "Covalent Bond",
+        "concepts": [
+          "Lewis Electron Dot formulas",
+          "Resonance structures",
+          "Formal charge",
+          "Lewis acids and bases",
+          "Partial ionic character: Dipole Moment",
+          "Role of electronegativity in charge distribution",
+          "σ and π bonds : Hybrid orbitals; sp3, sp2, sp and"
+        ]
+      },
+      {
+        "title": "respective geometries",
+        "concepts": [
+          "VSEPR theory and the predictions of shapes of"
+        ]
+      },
+      {
+        "title": "molecules (e.g. NH3, H2O, CO2)",
+        "concepts": [
+          "Structural formulas for molecules involving H, C,"
+        ]
+      },
+      {
+        "title": "N,",
+        "concepts": []
+      },
+      {
+        "title": "O, F, S, P, Si, Cl",
+        "concepts": [
+          "Delocalized electrons and resonance in ions and"
+        ]
+      },
+      {
+        "title": "molecules",
+        "concepts": [
+          "Multiple bonding",
+          "Effect on bond length and bond energies",
+          "Rigidity in molecular structure"
+        ]
+      },
+      {
+        "title": "Stereochemistry of covalently bonded molecules",
+        "concepts": [
+          "Structural isomers",
+          "Stereoisomers (e.g. enantiomers, diastereomers and"
+        ]
+      },
+      {
+        "title": "cis/trans isomers)",
+        "concepts": [
+          "Conformational isomers",
+          "Polarization of light, specific rotation",
+          "Absolute and relative configuration (R and S forms,"
+        ]
+      },
+      {
+        "title": "E and Z forms)",
+        "concepts": []
+      },
+      {
+        "title": "Liquid phase-intermolecular force",
+        "concepts": [
+          "Hydrogen bonding",
+          "Dipole interactions",
+          "Van der Waals’ forces (London dispersion forces)"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "5C: Separation and Purification Techniques including proteins and peptides",
+        "concepts": []
+      },
+      {
+        "title": "Separation and Purification Methods",
+        "concepts": [
+          "Extraction and Distillation",
+          "Chromatography: Basis principles of separation",
+          "Gas-liquid chromatography",
+          "HPLC",
+          "Paper and Thin-layer chromatography",
+          "Size exclusion chromatography",
+          "Ion exchange chromatography",
+          "Affinity chromatography",
+          "Electrophoresis",
+          "Quantitative analysis",
+          "Racemic mixtures, separation of enantiomers"
+        ]
+      },
+      {
+        "title": "5D: Structure, function, and reactivity of biologically relevant molecules",
+        "concepts": []
+      },
+      {
+        "title": "Nucleotides and Nucleic Acids",
+        "concepts": [
+          "Nucleotides and nucleosides: composition",
+          "Sugar phosphate backbone",
+          "Pyrimidine, purine residues",
+          "Deoxyribonucleic acid: DNA, double helix",
+          "Chemistry and additional functions"
+        ]
+      },
+      {
+        "title": "Amino Acids/Peptides",
+        "concepts": [
+          "Absolute configuration at the α position",
+          "Amino acids as dipolar ions",
+          "Acidic or basic",
+          "Hydrophobic or hydrophilic, Hydrolysis",
+          "Synthesis of  α-amino acids: Strecker and Gabriel",
+          "Sulfur linkage for cysteine and cysteine",
+          "Peptide linkage: polypeptides and proteins",
+          "Isoeletric point"
+        ]
+      },
+      {
+        "title": "Proteins",
+        "concepts": [
+          "1°, 2°, 3°, 4° structure of proteins",
+          "Role of proline, cystine, hydrophobic bonding",
+          "Denaturing and folding",
+          "Hydrophobic interactions",
+          "Solvation layer (entropy)"
+        ]
+      },
+      {
+        "title": "Non-Enzymatic Protein Function",
+        "concepts": [
+          "Binding",
+          "Immune system",
+          "Motor"
+        ]
+      },
+      {
+        "title": "Types of Lipids",
+        "concepts": [
+          "Storage including triacylglycerols",
+          "Free fatty acids: saponification"
+        ]
+      },
+      {
+        "title": "Structural",
+        "concepts": [
+          "Phospholipids and phosphatids",
+          "Sphingolipids and Waxes"
+        ]
+      },
+      {
+        "title": "Lipids as Signaling molecules and cofactors",
+        "concepts": [
+          "Fat-soluble vitamins",
+          "Steroids and Prostaglandins"
+        ]
+      },
+      {
+        "title": "Carbohydrates",
+        "concepts": [
+          "Nomenclature and classification, common names",
+          "Absolute configuration",
+          "Cyclic structure and conformations of hexoses",
+          "Epimers and anomers",
+          "Hydrolysis of the glycoside linkage",
+          "Keto-enol tautomerism of monosaccharides",
+          "Disaccharides, Polysaccharides"
+        ]
+      },
+      {
+        "title": "Aldehydes and Ketones",
+        "concepts": [
+          "Nomenclature",
+          "Physical properties",
+          "Nucleophilic addition reactions at C=O bond",
+          "Formation of Acetal, hemiacetal",
+          "Imine, enamine and Cyanohydrin",
+          "Hydride reagents",
+          "Oxidation of aldehydes",
+          "Reactions at adjacent positions: enolate chemistry",
+          "Keto-enol tautomerization (racemization)",
+          "Aldol condensation, retro-aldol",
+          "Kinetic versus thermodynamic enolate",
+          "Effect of substituents on reactivity of C=O; steric"
+        ]
+      },
+      {
+        "title": "hindrance",
+        "concepts": [
+          "Acidity of α-H; carbanions"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "Alcohols",
+        "concepts": [
+          "Nomenclature"
+        ]
+      },
+      {
+        "title": "Acid Derivatives (Anhydrides, Amides, Esters)",
+        "concepts": [
+          "Physical properties (acidity, hydrogen bonding)",
+          "Oxidation, Substitution reactions: SN1 or SN2",
+          "Protection of alcohols",
+          "Preparation of mesylates and tosylates"
+        ]
+      },
+      {
+        "title": "Carboxylic Acids",
+        "concepts": [
+          "Nomenclature",
+          "Physical properties",
+          "Carboxyl group reactions",
+          "Amides (and lactam), esters (and lactone),"
+        ]
+      },
+      {
+        "title": "anhydride",
+        "concepts": []
+      },
+      {
+        "title": "formation",
+        "concepts": [
+          "Reductions and Decarboxylation",
+          "Reactions at 2-position, substitution",
+          "Nomenclature and physical properties",
+          "Nucleophilic substitution",
+          "Hydrolysis of amides and Transesterification",
+          "Relative reactivity of acid derivatives",
+          "Steric effects",
+          "Electronic effects",
+          "Strain (β-lactams)"
+        ]
+      },
+      {
+        "title": "Phenols",
+        "concepts": [
+          "Oxidation and reduction (e.g., hydroquinones),"
+        ]
+      },
+      {
+        "title": "ubiquinones: biological 2e– redox centers",
+        "concepts": []
+      },
+      {
+        "title": "Polycyclic and Heterocyclic Aromatic",
+        "concepts": []
+      },
+      {
+        "title": "Compounds",
+        "concepts": [
+          "Biological aromatic heterocycles"
+        ]
+      },
+      {
+        "title": "5E: Principles of chemical thermodynamics and kinetics",
+        "concepts": []
+      },
+      {
+        "title": "Enzymes",
+        "concepts": [
+          "Enzyme classification by reaction type",
+          "Substrates and specificity",
+          "Active site model",
+          "Induced-fit model",
+          "Cofactors, coenzymes and vitamins",
+          "General Kinetics and catalysis",
+          "Michaelis-Menten",
+          "Cooperativity",
+          "Effects of local conditions on enzyme activity",
+          "Inhibition",
+          "Regulatory enzymes",
+          "Allosteric",
+          "Covalently modified"
+        ]
+      },
+      {
+        "title": "Principles of Bioenergetics",
+        "concepts": [
+          "Bioenergetics/thermodynamics",
+          "Free energy/Keq, Concentration",
+          "Phosphorylation/ATP",
+          "ATP hydrolysis and ATP group transfers",
+          "Biological oxidation–reduction",
+          "Half-reactions",
+          "Soluble electron carriers",
+          "Flavoproteins"
+        ]
+      },
+      {
+        "title": "Energy changes in chemical reactions",
+        "concepts": [
+          "Thermodynamic system – state function",
+          "Zeroth Law – concept of temperature",
+          "PV diagram: work done = area under or enclosed"
+        ]
+      },
+      {
+        "title": "by",
+        "concepts": []
+      },
+      {
+        "title": "curve",
+        "concepts": [
+          "First Law: ΔE = Q – W (conservation of energy)",
+          "Second Law – concept of entropy and as a measure"
+        ]
+      },
+      {
+        "title": "of disorder",
+        "concepts": [
+          "Relative entropy for gas, liquid, and crystal states",
+          "Calorimetry, heat capacity, specific heat",
+          "Heat transfer – conduction, convection, radiation",
+          "Endothermic/exothermic reactions",
+          "Enthalpy, H, and standard heats of reaction and"
+        ]
+      },
+      {
+        "title": "formation",
+        "concepts": [
+          "Hess’ Law of Heat Summation",
+          "Bond dissociation energy as related to heats of"
+        ]
+      },
+      {
+        "title": "formation",
+        "concepts": [
+          "Free energy: G and spontaneous reactions ΔG°",
+          "Coefficient of expansion",
+          "Heat of fusion, heat of vaporization",
+          "Phase diagram: pressure and temperature"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "Kinetics and equilibrium in chemical reactions",
+        "concepts": [
+          "Reaction rate, rate law and rate constant",
+          "Dependence of reaction rate upon concentration of"
+        ]
+      },
+      {
+        "title": "reactants",
+        "concepts": [
+          "Reaction order",
+          "Rate determining step",
+          "Dependence of reaction rate on temperature",
+          "Activation energy",
+          "Activated complex or transition state",
+          "Interpretation of energy profiles showing energies"
+        ]
+      },
+      {
+        "title": "of  reactants, products, activation energy ΔH for the",
+        "concepts": []
+      },
+      {
+        "title": "reaction",
+        "concepts": [
+          "Use of the Arrhenius Equation",
+          "Kinetic control versus thermodynamic control",
+          "Catalysts",
+          "Equilibrium in reversible chemical reactions",
+          "Law of Mass Action",
+          "Equilibrium Constant",
+          "Application of Le Chatelier’s principle",
+          "Relationship of the equilibrium constant and ΔG°"
+        ]
+      },
+      {
+        "title": "6A: Sensing the environment",
+        "concepts": []
+      },
+      {
+        "title": "Sensory Processing",
+        "concepts": [
+          "Sensation and thresholds",
+          "Weber’s Law",
+          "Signal detection theory",
+          "Sensory adaptation, Psychophysics",
+          "Sensory receptors, types and pathways"
+        ]
+      },
+      {
+        "title": "Vision",
+        "concepts": [
+          "Structure and function of the eye",
+          "Visual processing and pathways in the brain",
+          "Parallel processing and feature detection"
+        ]
+      },
+      {
+        "title": "Hearing",
+        "concepts": [
+          "Structure and function of ear",
+          "Auditory processing and pathways in the brain",
+          "Sensory reception by hair cells"
+        ]
+      },
+      {
+        "title": "Other Senses",
+        "concepts": [
+          "Somatosensation and pain perception",
+          "Taste and Taste buds/chemoreceptors",
+          "Smell; olfactory cells/chemoreceptors",
+          "Pheromones and olfactory pathways in the brain",
+          "Kinesthetic sense and vestibular sense"
+        ]
+      },
+      {
+        "title": "Perception",
+        "concepts": [
+          "Bottom-up/Top-down processing",
+          "Perceptual organization (e.g., depth, form, motion,"
+        ]
+      },
+      {
+        "title": "constancy)",
+        "concepts": [
+          "Gestalt principles"
+        ]
+      },
+      {
+        "title": "6B: Making sense of the environment",
+        "concepts": []
+      },
+      {
+        "title": "Attention",
+        "concepts": [
+          "Selective and divided attention"
+        ]
+      },
+      {
+        "title": "Cognition",
+        "concepts": [
+          "Information-processing model",
+          "Cognitive development",
+          "Piaget’s stages of cognitive development",
+          "Cognitive changes in late adulthood",
+          "Role of culture in cognitive development",
+          "Influence of heredity and environment on"
+        ]
+      },
+      {
+        "title": "cognitive",
+        "concepts": []
+      },
+      {
+        "title": "development",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": [
+          "Biological factors that affect cognition",
+          "Types of problem solving and decision making",
+          "Barriers to effective problem solving",
+          "Approaches to problem solving",
+          "Heuristics, biases, intuition, and emotion",
+          "Overconfidence and belief perseverance",
+          "Intellectual functioning",
+          "Theories of intelligence",
+          "Influence of heredity and environment on"
+        ]
+      },
+      {
+        "title": "intelligence",
+        "concepts": [
+          "Variations in intellectual ability"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "Consciousness",
+        "concepts": [
+          "States of consciousness, Alertness",
+          "Sleep and Stages of sleep",
+          "Sleep cycles, circadian rhythms",
+          "Dreaming, Sleep-wake disorders",
+          "Hypnosis and meditation",
+          "Consciousness altering drugs and their effects on"
+        ]
+      },
+      {
+        "title": "the",
+        "concepts": []
+      },
+      {
+        "title": "nervous system and behavior",
+        "concepts": [
+          "Drug addiction and the reward pathway in the"
+        ]
+      },
+      {
+        "title": "brain",
+        "concepts": []
+      },
+      {
+        "title": "Memory",
+        "concepts": [
+          "Encoding and processes that aid encoding"
+        ]
+      },
+      {
+        "title": "memories",
+        "concepts": [
+          "Process of encoding information",
+          "Types of memory storage (e.g., sensory, working,"
+        ]
+      },
+      {
+        "title": "long-",
+        "concepts": []
+      },
+      {
+        "title": "term)",
+        "concepts": [
+          "Semantic networks and spreading activation",
+          "Recall, recognition, and relearning",
+          "Role of emotion and memory retrieval and retrieval"
+        ]
+      },
+      {
+        "title": "cues",
+        "concepts": [
+          "Aging and memory",
+          "Memory dysfunctions (Alzheimer’s disease,"
+        ]
+      },
+      {
+        "title": "Korsakoff’s syndrome)",
+        "concepts": [
+          "Decay and forgetting",
+          "Interference and Long-term potentiation",
+          "Memory construction and source monitoring",
+          "Changes in synaptic connections underlie memory"
+        ]
+      },
+      {
+        "title": "and  learning",
+        "concepts": [
+          "Neural plasticity, memory and learning"
+        ]
+      },
+      {
+        "title": "Language",
+        "concepts": [
+          "Theories of language development (e.g., learning,"
+        ]
+      },
+      {
+        "title": "Nativist, Interactionist)",
+        "concepts": [
+          "Influence of language on cognition",
+          "Different brain areas control language and speech"
+        ]
+      },
+      {
+        "title": "6C: Responding to the World",
+        "concepts": []
+      },
+      {
+        "title": "Emotion",
+        "concepts": [
+          "Cognitive, physiological, and behavioral"
+        ]
+      },
+      {
+        "title": "components",
+        "concepts": []
+      },
+      {
+        "title": "of emotion",
+        "concepts": [
+          "Universal emotions (e.g., fear, anger, happiness,"
+        ]
+      },
+      {
+        "title": "surprise, joy, disgust, sadness)",
+        "concepts": [
+          "Adaptive role of emotion"
+        ]
+      },
+      {
+        "title": "Theories of emotion",
+        "concepts": [
+          "James-Lange theory",
+          "Cannon-Bard theory",
+          "Schachter-Singer theory",
+          "Biological processes and perception of emotion",
+          "Brain regions in generation and experience of"
+        ]
+      },
+      {
+        "title": "emotions",
+        "concepts": [
+          "The role of the limbic system in emotion",
+          "Emotion and the autonomic nervous system",
+          "Physiological markers of emotion (signatures of"
+        ]
+      },
+      {
+        "title": "emotion)",
+        "concepts": []
+      },
+      {
+        "title": "Stress",
+        "concepts": [
+          "The nature of stress",
+          "Appraisal",
+          "Different types of stressors",
+          "Effects of stress on psychological functions",
+          "Stress outcomes/response to stressors",
+          "Emotional",
+          "Behavioral",
+          "Stress management"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "7A: Individual influences on behavior - biological bases of behavior",
+        "concepts": []
+      },
+      {
+        "title": "The nervous system",
+        "concepts": [
+          "Neurons (e.g. the reflex arc)",
+          "Neurotransmitters",
+          "Structure and function of peripheral nervous"
+        ]
+      },
+      {
+        "title": "system",
+        "concepts": []
+      },
+      {
+        "title": "and central nervous system",
+        "concepts": [
+          "The brain",
+          "The Forebrain, Midbrain, Hindbrain",
+          "The cerebrum",
+          "The spinal cord",
+          "Lateralization of cortical functions",
+          "Methods of studying the brain",
+          "Neurons communicate and influence behavior",
+          "Influence of neurotransmitters on behavior"
+        ]
+      },
+      {
+        "title": "The endocrine system",
+        "concepts": [
+          "Components of the endocrine system",
+          "Role of the endocrine system in behavior",
+          "Behavioral genetics",
+          "Genes, temperament, and heredity",
+          "Adaptive value of traits and behaviors",
+          "Interaction between heredity and environmental"
+        ]
+      },
+      {
+        "title": "influences",
+        "concepts": []
+      },
+      {
+        "title": "Genetic and environmental factors contribute to",
+        "concepts": []
+      },
+      {
+        "title": "the development of behaviors",
+        "concepts": [
+          "Experience and behavior",
+          "Regulatory genes and behavior",
+          "Genetically based behavioral variation in natural"
+        ]
+      },
+      {
+        "title": "populations",
+        "concepts": [
+          "Human physiological development",
+          "Prenatal development",
+          "Motor development",
+          "Developmental changes in adolescence"
+        ]
+      },
+      {
+        "title": "Personality",
+        "concepts": [
+          "Theories of personality",
+          "Psychoanalytic perspective",
+          "Humanistic perspective",
+          "Trait perspective",
+          "Social cognitive perspective",
+          "Biological perspective",
+          "Behaviorist perspective",
+          "Situational approach to explaining behavior"
+        ]
+      },
+      {
+        "title": "Psychological Disorders",
+        "concepts": [
+          "Biomedical vs. biopsychosocial approaches",
+          "Classifying psychological disorders",
+          "Rates of psychological disorders",
+          "Anxiety disorders, Obsessive-compulsive disorder",
+          "Somatic symptom and related disorders",
+          "Depressive disorders",
+          "Schizophrenia, Bipolar and related disorders",
+          "Dissociative and Personality disorder",
+          "Trauma and stressor related disorders"
+        ]
+      },
+      {
+        "title": "Biological bases of nervous system disorders",
+        "concepts": [
+          "Schizophrenia",
+          "Depression",
+          "Alzheimer’s disease",
+          "Parkinson’s disease",
+          "Stem cell-based therapy to regenerate neurons in"
+        ]
+      },
+      {
+        "title": "CNS",
+        "concepts": []
+      },
+      {
+        "title": "Motivation",
+        "concepts": [
+          "Factors that influence motivation",
+          "Instinct",
+          "Arousal",
+          "Drives (e.g. negative feedback systems)",
+          "Needs",
+          "Drive reduction theory",
+          "Incentive theory",
+          "Cognitive and need based theories",
+          "Biological and Socio-cultural motivators that"
+        ]
+      },
+      {
+        "title": "regulate behavior (e.g. hunger, sex-drive, substance",
+        "concepts": []
+      },
+      {
+        "title": "addiction)",
+        "concepts": []
+      },
+      {
+        "title": "Attitudes",
+        "concepts": [
+          "Components of attitudes (i.e., cognitive, affective,"
+        ]
+      },
+      {
+        "title": "and behavioral)",
+        "concepts": [
+          "The link between attitudes and behavior",
+          "Processes by which behavior influences attitudes"
+        ]
+      },
+      {
+        "title": "(e.g. Foot-in-the door phenomenon, Role-playing",
+        "concepts": []
+      },
+      {
+        "title": "effects)",
+        "concepts": [
+          "Processes by which attitudes influence behavior",
+          "Cognitive dissonance theory"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "7B: Social processes that influence human behavior",
+        "concepts": []
+      },
+      {
+        "title": "How the Presence of Others Affects Individual",
+        "concepts": []
+      },
+      {
+        "title": "Behavior",
+        "concepts": [
+          "Social facilitation",
+          "Deindividuation",
+          "Bystander effect",
+          "Social loafing, social control",
+          "Peer pressure, Conformity, Obedience"
+        ]
+      },
+      {
+        "title": "Group Processes",
+        "concepts": [
+          "Group polarization",
+          "Groupthink"
+        ]
+      },
+      {
+        "title": "Normative and Non-normative Behavior",
+        "concepts": [
+          "Social norms and Sanctions",
+          "Folkways, mores and taboos",
+          "Anomie",
+          "Perspectives on deviance (e.g. differential"
+        ]
+      },
+      {
+        "title": "association, labeling theory, strain theory",
+        "concepts": [
+          "Aspects of collective behavior (e.g. fads, mass"
+        ]
+      },
+      {
+        "title": "hysteria,  riots)",
+        "concepts": []
+      },
+      {
+        "title": "Socialization",
+        "concepts": [
+          "Agents of socialization (e.g. family, mass media,"
+        ]
+      },
+      {
+        "title": "peers,  work place)",
+        "concepts": []
+      },
+      {
+        "title": "7C: Attitude and behavior change",
+        "concepts": []
+      },
+      {
+        "title": "Habituation and Dishabituation",
+        "concepts": []
+      },
+      {
+        "title": "Associative Learning",
+        "concepts": [
+          "Classical conditioning",
+          "Neutral, conditioned, and unconditioned stimuli",
+          "Conditioned and unconditioned response",
+          "Processes: acquisition, extinction, spontaneous"
+        ]
+      },
+      {
+        "title": "recovery, generalization, discrimination",
+        "concepts": [
+          "Operant conditioning",
+          "Processes of shaping and extinction",
+          "Types of reinforcement: positive, negative, primary,"
+        ]
+      },
+      {
+        "title": "conditional",
+        "concepts": [
+          "Reinforcement schedules: fixed-ratio, variable-ratio,"
+        ]
+      },
+      {
+        "title": "fixed-interval, variable-interval",
+        "concepts": [
+          "Punishment",
+          "Escape and avoidance learning",
+          "Role of cognitive process in associative learning",
+          "Biological processes that affect associative learning"
+        ]
+      },
+      {
+        "title": "(e.g. biological predisposition, instinctive drift)",
+        "concepts": []
+      },
+      {
+        "title": "Observational Learning",
+        "concepts": [
+          "Modeling",
+          "Biological processes that affect observational"
+        ]
+      },
+      {
+        "title": "learning",
+        "concepts": [
+          "Mirror neurons",
+          "Role of the brain in experiencing vicarious"
+        ]
+      },
+      {
+        "title": "emotions",
+        "concepts": [
+          "Applications of observational learning to explain"
+        ]
+      },
+      {
+        "title": "individual behavior",
+        "concepts": []
+      },
+      {
+        "title": "Theories of Attitude and Behavior Change",
+        "concepts": [
+          "Elaboration Likelihood Model",
+          "Social Cognitive theory",
+          "Factors that affect attitude change (e.g. changing"
+        ]
+      },
+      {
+        "title": "behavior, characteristics of the message and target,",
+        "concepts": []
+      },
+      {
+        "title": "social factors)",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "8A:  Self identity",
+        "concepts": []
+      },
+      {
+        "title": "Self-Concept and Identity",
+        "concepts": [
+          "Definitions of self-concept, identity, and social"
+        ]
+      },
+      {
+        "title": "identity",
+        "concepts": [
+          "The role of self-esteem, self-efficacy, and locus of"
+        ]
+      },
+      {
+        "title": "control in self-concept and self-identity",
+        "concepts": [
+          "Different types of identities (e.g., race/ethnicity,"
+        ]
+      },
+      {
+        "title": "gender, age, sexual orientation, class)",
+        "concepts": []
+      },
+      {
+        "title": "Formation of Identity",
+        "concepts": [
+          "Theories of identity development (e.g., gender,"
+        ]
+      },
+      {
+        "title": "moral,",
+        "concepts": []
+      },
+      {
+        "title": "psychosexual, social)",
+        "concepts": [
+          "Influence of social factors on identity formation",
+          "Influence of individuals (e.g., imitation, role-taking)",
+          "Influence of group (e.g., reference group)",
+          "Influence of culture and socialization on identity"
+        ]
+      },
+      {
+        "title": "formation",
+        "concepts": []
+      },
+      {
+        "title": "8B: Social thinking",
+        "concepts": []
+      },
+      {
+        "title": "Attributing Behavior to Persons or Situations",
+        "concepts": [
+          "Attribution processes (e.g. Fundamental attribution"
+        ]
+      },
+      {
+        "title": "error, role of culture in attributions)",
+        "concepts": [
+          "How self-perceptions shape our perceptions of"
+        ]
+      },
+      {
+        "title": "others",
+        "concepts": [
+          "How perceptions of the environment shape our"
+        ]
+      },
+      {
+        "title": "perceptions of others",
+        "concepts": []
+      },
+      {
+        "title": "Prejudice and Bias",
+        "concepts": [
+          "Stereotypes, Stigma",
+          "Ethnocentrism vs. cultural relativism",
+          "Power, prestige, and class",
+          "The role of emotion in prejudice",
+          "The role of cognition in prejudice"
+        ]
+      },
+      {
+        "title": "Processes Related to Stereotypes",
+        "concepts": [
+          "Self-fulfilling prophecy",
+          "Stereotype threat"
+        ]
+      },
+      {
+        "title": "8C Social Interactions",
+        "concepts": []
+      },
+      {
+        "title": "Elements of Social Interaction",
+        "concepts": [
+          "Statuses (e.g. achieved, ascribed)",
+          "Role conflict, role strain and role exit",
+          "Groups: primary and secondary",
+          "In-group vs. Out-group, Group size (e.g. dyads,"
+        ]
+      },
+      {
+        "title": "triads)",
+        "concepts": [
+          "Networks",
+          "Organization: Formal organization",
+          "Characteristics of ideal bureaucracy, perspective on"
+        ]
+      },
+      {
+        "title": "bureaucracy (e.g. iron law of oligarchy,",
+        "concepts": []
+      },
+      {
+        "title": "McDonaldization)",
+        "concepts": []
+      },
+      {
+        "title": "Self-presentation and Interacting with Others",
+        "concepts": [
+          "Expressing and detecting emotion",
+          "Role of gender and culture in expression and"
+        ]
+      },
+      {
+        "title": "detection",
+        "concepts": []
+      },
+      {
+        "title": "of emotion",
+        "concepts": []
+      },
+      {
+        "title": "approach)",
+        "concepts": [
+          "Verbal and nonverbal communication",
+          "Animal signals and communication"
+        ]
+      },
+      {
+        "title": "Social Behavior",
+        "concepts": [
+          "Attraction, attachment",
+          "Aggression",
+          "Social support"
+        ]
+      },
+      {
+        "title": "Biological explanations of social behavior in",
+        "concepts": []
+      },
+      {
+        "title": "animals",
+        "concepts": [
+          "Foraging behavior",
+          "Mating behavior and mate choice",
+          "Applying game theory",
+          "Altruism",
+          "Inclusive fitness"
+        ]
+      },
+      {
+        "title": "Impression management",
+        "concepts": [
+          "Front stage vs. back stage self (Dramaturgical"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "Discrimination",
+        "concepts": [
+          "Individual vs. institutional discrimination",
+          "Prejudice and discrimination"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": [
+          "How power, prestige, and class facilitate"
+        ]
+      },
+      {
+        "title": "discrimination",
+        "concepts": []
+      },
+      {
+        "title": "9A: Understanding Social Structure",
+        "concepts": []
+      },
+      {
+        "title": "Theoretical Approaches",
+        "concepts": [
+          "Microsociology vs. macrosociology",
+          "Functionalism",
+          "Conflict theory",
+          "Symbolic interactionism",
+          "Social constructionism",
+          "Exchange-rational choice",
+          "Feminist theory"
+        ]
+      },
+      {
+        "title": "Social Institutions",
+        "concepts": [
+          "Education: hidden curriculum, teacher expectancy"
+        ]
+      },
+      {
+        "title": "and",
+        "concepts": []
+      },
+      {
+        "title": "educational segregation and stratification",
+        "concepts": [
+          "Family: forms of kinship, diversity in family forms",
+          "Marriage and divorce",
+          "Violence in family (e.g. child, elder and spousal"
+        ]
+      },
+      {
+        "title": "abuse)",
+        "concepts": [
+          "Religion: religiosity",
+          "Types of religious organizations (e.g. church, sect,"
+        ]
+      },
+      {
+        "title": "cult)",
+        "concepts": [
+          "Religion and social change (e.g. modernization,"
+        ]
+      },
+      {
+        "title": "secularization, fundamentalism)",
+        "concepts": [
+          "Government and economy: Power and authority",
+          "Comparative economics, political systems and"
+        ]
+      },
+      {
+        "title": "division",
+        "concepts": []
+      },
+      {
+        "title": "of labor",
+        "concepts": [
+          "Health and medicine: Delivery of health care",
+          "The sick role, illness experience",
+          "Medicalization and social epidemiology"
+        ]
+      },
+      {
+        "title": "Culture",
+        "concepts": [
+          "Elements of culture (e.g. beliefs, language, rituals,"
+        ]
+      },
+      {
+        "title": "symbols, values)",
+        "concepts": [
+          "Material vs. symbolic culture",
+          "Culture lag, culture shock",
+          "Assimilation and Multiculturalism",
+          "Subculture and counterculture",
+          "Mass media and popular culture",
+          "Evolution and human culture",
+          "Transmission and diffusion"
+        ]
+      },
+      {
+        "title": "9B: Demographic characteristics and processes",
+        "concepts": []
+      },
+      {
+        "title": "Demographic characteristics and processes",
+        "concepts": [
+          "Aging and the life course",
+          "Age cohorts and social significance of aging",
+          "Sex vs. gender",
+          "Social construction of gender and gender"
+        ]
+      },
+      {
+        "title": "segregation",
+        "concepts": [
+          "Race and ethnicity: social construction of race",
+          "Racialization and racial formation",
+          "Patterns of immigration and intersections with race"
+        ]
+      },
+      {
+        "title": "and ethnicity",
+        "concepts": [
+          "Sexual orientation"
+        ]
+      },
+      {
+        "title": "Demographic Shifts and Social Change",
+        "concepts": [
+          "Theories of demographic change (e.g. Malthusian"
+        ]
+      },
+      {
+        "title": "theory and demographic transition)",
+        "concepts": [
+          "Population growth and decline (e.g. population"
+        ]
+      },
+      {
+        "title": "projections, population pyramids)",
+        "concepts": [
+          "Fertility and mortality rates (e.g. total, crude, age-"
+        ]
+      },
+      {
+        "title": "specific)",
+        "concepts": [
+          "Patterns in fertility and mortality",
+          "Push and pull factors in migration",
+          "Organization of social movements; strategies and"
+        ]
+      },
+      {
+        "title": "tactics",
+        "concepts": [
+          "Relative deprivation",
+          "Factors contributing to globalization (e.g."
+        ]
+      },
+      {
+        "title": "communication technology, economic",
+        "concepts": []
+      },
+      {
+        "title": "interdependence)",
+        "concepts": [
+          "Perspectives on globalization",
+          "Social changes in globalization (e.g. civil unrest,"
+        ]
+      },
+      {
+        "title": "terrorism)",
+        "concepts": [
+          "Industrialization and urban growth",
+          "Suburbanization and urban decline",
+          "Gentrification and urban renewal"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      },
+      {
+        "title": "10A: Social inequality",
+        "concepts": []
+      },
+      {
+        "title": "Spatial Inequality",
+        "concepts": [
+          "Residential segregation",
+          "Environmental justice (location and exposure to health"
+        ]
+      },
+      {
+        "title": "risks)",
+        "concepts": [
+          "Neighborhood safety and violence"
+        ]
+      },
+      {
+        "title": "Social Class",
+        "concepts": [
+          "Aspects of social stratification",
+          "Social class and socioeconomic status",
+          "Class consciousness and false consciousness",
+          "Cultural capital and social capital",
+          "Social reproduction",
+          "Power, privilege and prestige",
+          "Intersectionality (e.g. race, gender and age)"
+        ]
+      },
+      {
+        "title": "Patterns of social mobility",
+        "concepts": [
+          "Intergenerational and intra-generational mobility",
+          "Vertical and horizontal mobility",
+          "Meritocracy"
+        ]
+      },
+      {
+        "title": "Poverty",
+        "concepts": [
+          "Relative and absolute",
+          "Social exclusion (segregation and isolation)"
+        ]
+      },
+      {
+        "title": "Health Disparities",
+        "concepts": [
+          "Race, gender, and class inequalities in health"
+        ]
+      },
+      {
+        "title": "Healthcare Disparities",
+        "concepts": [
+          "Race, gender, and class inequalities in healthcare"
+        ]
+      },
+      {
+        "title": "AAMC\tMCAT©\tContent\tChecklist\t\tcompiled\tby\tMed-Pathway.com\t\tTHE\tMCAT\tExperts",
+        "concepts": []
+      }
+    ]
+  }
+]
