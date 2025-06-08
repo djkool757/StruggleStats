@@ -3,14 +3,19 @@ from app.models import User
 from app.models import Subtopic
 from app.models import Concept
 from app.models import Category
-
 ## finish up the routes.py file to handle user management
 
 api = Blueprint("api", __name__)
 
+@api.route("/", methods=["GET"])
+def index():
+    return jsonify({"message": "Welcome to the SSTATS API"}), 200
+
 @api.route("/users", methods=["GET"])
 def get_users():
     users = User.query.all()
+    if users is None:
+        return jsonify({"error": "No users found"}), 404
     return jsonify([user.to_dict() for user in users]), 200
 
 @api.route("/users", methods=["POST"])

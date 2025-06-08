@@ -4,11 +4,12 @@ db = SQLAlchemy()
 
 
 class User(db.Model):
-    __tablename__ = 'categories'
+    __tablename__ = 'users'
     id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String, nullable=False)
-    subtopics = db.relationship('Subtopic', backref='category', cascade='all, delete-orphan')
-    logs = db.relationship('Log', backref='category', cascade='all, delete-orphan')
+    username = db.Column(db.String, nullable=False)
+    email = db.Column(db.String, unique=True, nullable=False)
+    ##subtopics = db.relationship('Subtopic', backref='category', cascade='all, delete-orphan')
+     ## logs = db.relationship('Log', backref='category', cascade='all, delete-orphan')
 
     def to_dict(self):
         return {
@@ -24,14 +25,14 @@ class Category(db.Model):
     __tablename__ = 'categories'
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String, nullable=False)
-    subtopics = db.relationship('Subtopic', backref='category', cascade='all, delete-orphan')
+    ## subtopics = db.relationship('Subtopic', backref='category', cascade='all, delete-orphan')
 
 class Subtopic(db.Model):
     __tablename__ = 'subtopics'
     id = db.Column(db.Integer, primary_key=True)
     title = db.Column(db.String, nullable=False)
     category_id = db.Column(db.Integer, db.ForeignKey('categories.id'), nullable=False)
-    concepts = db.relationship('Concept', backref='subtopic', cascade='all, delete-orphan')
+    ## concepts = db.relationship('Concept', backref='subtopic', cascade='all, delete-orphan')
 
 class Concept(db.Model):
     __tablename__ = 'concepts'
@@ -43,14 +44,13 @@ class Log(db.Model):
     __tablename__ = 'logs'
     id = db.Column(db.Integer, primary_key=True)
     timestamp = db.Column(db.DateTime, default=datetime.now(), nullable=False)
-    category_id = db.Column(db.Integer, db.ForeignKey('categories.id'), nullable=False)
-    action = db.Column(db.String, nullable=False)  # e.g., 'create', 'update', 'delete'
-
+    user_id = db.Column(db.Integer, db.ForeignKey('users.id'), nullable=False)
+    action = db.Column(db.String, nullable=False)
     def to_dict(self):
         return {
             'id': self.id,
             'timestamp': self.timestamp.isoformat(),
-            'category_id': self.category_id,
+            'user_id': self.user_id,
             'action': self.action
         }
     def save(self):

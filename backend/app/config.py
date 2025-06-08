@@ -2,7 +2,6 @@ from pathlib import Path
 import os
 
 BASE_DIR = Path(__file__).resolve().parent
-print(os.environ.get('SECRET_KEY_SSTATS'))
 
 class Config:
     SQLALCHEMY_DATABASE_URI = 'sqlite:///' + str(BASE_DIR.parent / 'database' / 'sstats.db')
